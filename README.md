@@ -1,4 +1,4 @@
-# Happy and Sad Classification Ai Model with Machine Learning
+# Image Classification Ai Model for Happy and Sad Faces with Machine Learning
 this model trained by almost 2K portratat pictures of google results to classifid pictures which is sad or happy.
 
 
